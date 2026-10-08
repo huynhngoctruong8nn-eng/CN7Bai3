@@ -1,0 +1,6 @@
+{
+  "name": "Nông Trại Bàn Tay - Gieo Trồng & Chăm Sóc Cây Trồng",
+  "description": "Game giáo dục tương tác điều khiển bằng bàn tay qua webcam môn Công nghệ lớp 7, bài Gieo trồng và chăm sóc cây trồng.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
